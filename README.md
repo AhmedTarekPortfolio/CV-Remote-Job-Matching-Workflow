@@ -63,19 +63,19 @@ The Google Sheets output can include fields such as:
 
 ### 1. Workflow Overview
 
-![n8n Workflow Overview](screenshots/03_workflow_overview.png)
+![n8n Workflow Overview](/03_workflow_overview.png)
 
 This visual shows the full n8n workflow, including CV processing, job collection, scoring, Google Sheets storage, and the alert path.
 
 ### 2. Ranked Job Results Sheet
 
-![Ranked Job Results Sheet](screenshots/01_job_results_sheet.png)
+![Ranked Job Results Sheet](/01_job_results_sheet.png)
 
 The output sheet organizes discovered remote jobs and gives each opportunity a suitability score to make the strongest matches easier to prioritize.
 
 ### 3. Telegram Job Alert
 
-![Telegram Job Alert](screenshots/02_telegram_job_alert.png)
+![Telegram Job Alert](/02_telegram_job_alert.png)
 
 Telegram notifications provide a quick update when the workflow finds suitable remote-job opportunities.
 
