@@ -1,4 +1,4 @@
-# CV-to-Remote-Job Matching Workflow
+# CV-Remote-Job-Matching-Workflow
 
 > An n8n automation that analyzes a CV, finds suitable remote-job opportunities, scores each role from **1–10** based on fit, saves the results to Google Sheets, and sends Telegram alerts for strong matches.
 
